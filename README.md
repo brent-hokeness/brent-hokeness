@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brent-hokeness
 - 👀 I’m interested in baseball sports science and player development.
-- 🌱 I’m currently learning Python and computer vision.
+- 🌱 I’m currently learning computer vision and machine learning.
 - 💞️ I’m looking to collaborate on baseball biomechanics research!
 - 📫 How to reach me brentdhokeness@gmail.com
 
